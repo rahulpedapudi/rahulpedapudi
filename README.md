@@ -16,4 +16,4 @@ Building things people actually use • Systems-curious • Always learning
 
 ### 📫 Connect 
 - Email: rahulpedapudi.01@gmail.com
-- X: https://x.com/rvhul_
+- X: https://x.com/rvhul\_
