@@ -9,7 +9,7 @@ Building things people actually use • Systems-curious • Always learning
 
 
 ### 👨‍💻 What I'm doing now<br>
-- Crafting **plexus** – a digital memory garden (Flask + MongoDB + React)<br>
+- Crafting **nexus** – a fully self-hosted AI Assistant<br>
 - Diving deeper into **systems**, **Linux**, and **DSA in C++**<br>
 - Exploring **backend engineering**, **web extensions** and **compiler/OS internals**<br>
 
